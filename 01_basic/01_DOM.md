@@ -60,3 +60,5 @@ root.render(
 ```
 
 리액트 컴포넌트가 랜더링될 때, 렌더링된 결과물이 index.html의 id가 root인 곳에 렌더링 된다.
+
+
