@@ -59,5 +59,4 @@ onClick이 발생하는 위치에서는 dispatch 함수를 적어 (dispatch({typ
 버튼이 직접적으로 값을 변경하지 않아 컨트롤하기 편하다고 이해했다.
 <br>
 
-### 초기 state의 구체화
 
